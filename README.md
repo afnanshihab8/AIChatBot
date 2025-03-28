@@ -17,7 +17,7 @@ An AI-powered chatbot that generates project ideas based on the selected tech st
 
 ## 🚀 Installation & Setup  
 
-### 2️⃣ Backend Setup (FastAPI)  
+###  Backend Setup (FastAPI)  
 
 1. Navigate to the backend directory:  
 
@@ -38,7 +38,7 @@ An AI-powered chatbot that generates project ideas based on the selected tech st
    ```sh
    uvicorn main:app --reload  
 
-### 3️⃣ Frontend Setup (React.js)  
+### Frontend Setup (React.js)  
 
 1. Navigate to the frontend directory:  
 
